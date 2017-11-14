@@ -1,0 +1,12 @@
+.form-container{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.register-title{
+    text-align: center;
+}
+
+.form-group{
+    text-align: right;
+}

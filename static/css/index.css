@@ -1,0 +1,41 @@
+.question-ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.question-ul li{
+    padding: 10px;
+    overflow: hidden;
+}
+
+.left-logo{
+    float: left;
+    height: 100%;
+}
+
+.left-logo-image{
+    width: 38px;
+    height: 38px;
+}
+
+.question-main{
+    float: left;
+    padding-left: 10px;
+    width: 660px;
+    overflow: hidden;
+}
+
+.question-title a{
+    color: #259;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.question-detail{
+    text-align: right;
+    margin-top: 10px;
+}
+
+.question-author{
+    padding-right: 20px;
+}
